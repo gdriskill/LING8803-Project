@@ -1,0 +1,8 @@
+different (ADJ) economic (ADJ) plan (NOUN)
+next (ADJ) new (ADJ) innovation (NOUN)
+biggest (ADJ) geopolitical (ADJ) threat (NOUN)
+significant (ADJ) national (ADJ) security (NOUN)
+basic (ADJ) international (ADJ) standards (NOUN)
+new (ADJ) economic (ADJ) patriotism (NOUN)
+wonderful (ADJ) young (ADJ) lady (NOUN)
+last (ADJ) several (ADJ) years (NOUN)

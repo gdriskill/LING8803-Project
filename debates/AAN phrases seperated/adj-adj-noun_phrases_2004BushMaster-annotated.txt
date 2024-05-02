@@ -1,0 +1,4 @@
+new (ADJ) civil (ADJ) right (NOUN)
+fantastic (ADJ) young (ADJ) lady (NOUN)
+last (ADJ) military (ADJ) budgets (NOUN)
+last (ADJ) military (ADJ) budgets (NOUN)

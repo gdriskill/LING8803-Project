@@ -1,0 +1,7 @@
+vital (ADJ) national (ADJ) security (NOUN)
+old (ADJ) dear (ADJ) friends (NOUN)
+great (ADJ) national (ADJ) park (NOUN)
+great (ADJ) national (ADJ) park (NOUN)
+many (ADJ) young (ADJ) people (NOUN)
+large (ADJ) charitable (ADJ) trust (NOUN)
+wonderful (ADJ) new (ADJ) opportunity (NOUN)

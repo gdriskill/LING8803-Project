@@ -1,0 +1,8 @@
+last (ADJ) few (ADJ) days (NOUN)
+international (ADJ) criminal (ADJ) network (NOUN)
+new (ADJ) nuclear (ADJ) weapon (NOUN)
+strongest (ADJ) international (ADJ) network (NOUN)
+great (ADJ) entrepreneurial (ADJ) spirit (NOUN)
+potential (ADJ) criminal (ADJ) activity (NOUN)
+great (ADJ) entrepreneurial (ADJ) spirit (NOUN)
+potential (ADJ) criminal (ADJ) activity (NOUN)
